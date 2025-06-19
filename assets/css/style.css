@@ -15835,13 +15835,13 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .blog-card .blog-img .blog-img-shape1 {
-  width: 250px;
+  /* width: 250px;
   height: 102px;
   background: var(--white-color);
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 1;
+  z-index: 1; */
 }
 
 .blog-card .blog-content {
