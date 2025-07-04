@@ -6891,7 +6891,7 @@ ol.wp-block-rss {
 }
 
 .th-widget-about .info-card .box-title {
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 600;
 }
 
@@ -7731,19 +7731,19 @@ ol.wp-block-rss {
 
 .info-card .box-title {
   margin: 0 0 -0.2em 0;
-  font-size: 24px;
+  font-size: 16px;
   font-weight: 700;
 }
 
 @media (max-width: 1500px) {
   .info-card .box-title {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
 @media (max-width: 991px) {
   .info-card .box-title {
-    font-size: 18px;
+    font-size: 14px;
   }
 }
 
@@ -18065,7 +18065,7 @@ span.select2-selection.select2-selection--single:focus {
   padding: 30px;
   position: relative;
   box-shadow: 0px 10px 30px -6px rgba(12, 12, 13, 0.12);
-  border-radius: 100px;
+  border-radius: 30px;
   background: var(--white-color);
   z-index: 1;
   overflow: hidden;
@@ -18074,6 +18074,8 @@ span.select2-selection.select2-selection--single:focus {
   transition: 0.4s;
   /* Medium Large devices */
   /* Large devices */
+  height: 300px;
+  padding-top: 50px;
 }
 
 .feature-card .feature-card-bg-shape {
